@@ -1,4 +1,0 @@
-hermes
-======
-
-Simple running logger
